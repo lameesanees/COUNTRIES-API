@@ -17,3 +17,4 @@ const getCountry = async () => {
   result.innerHTML = htmlData
 }
 getCountry()
+ 
